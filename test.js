@@ -3,5 +3,5 @@
  */
 
 function test(){
-	console.log('new oppex client')
+	console.log('New Oppex Feature')
 }
