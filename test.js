@@ -3,5 +3,5 @@
  */
 
 function test(){
-	console.log('test me ')
+	console.log('test me')
 }
