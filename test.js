@@ -3,5 +3,5 @@
  */
 
 function test(){
-	console.log('New Oppex Feature 5')
+	console.log('New Oppex Feature 6')
 }
